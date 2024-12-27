@@ -17,16 +17,17 @@ The project implements two main types of recommendation algorithms:
 ## Requirements:
 To run this project, you must have the following libraries installed
 
-- Python
-- Surprise Library: For collaborative filtering algorithms
-- Pandas: For data manipulation and analysis
-- NumPy: For numerical operations
-- Matplotlib/Seaborn: For data visualization
+- scikit-learn: Used for machine learning tasks, including the `mean_squared_error` function to evaluate model performance.
+- Surprise: Library for building and evaluating collaborative filtering recommendation models.
+- Pandas: Used for data manipulation and creating dataframes.
+- NumPy: For numerical operations and handling arrays.
+- Matplotlib/Seaborn: Used for visualizing model performance and metrics.
+- collections.defaultdict: Simplifies handling missing keys in dictionaries during data processing and evaluation.
 
 
 ## Data
 The dataset used in this project is a user-product interaction dataset, containing ratings for various products from different users. The dataset is preprocessed to create a user-item matrix, which serves as the input for the collaborative filtering algorithms. 
-Link to dataset contatining used can be found here: https://drive.google.com/file/d/1XahZcR287ke7j48I7-oj0KzmmwSSvA3Y/view?usp=drive_link 
+Link to dataset used can be found here: https://drive.google.com/file/d/1XahZcR287ke7j48I7-oj0KzmmwSSvA3Y/view?usp=drive_link 
 
 
 ## Results
