@@ -2,8 +2,8 @@
 This repository contains an implementation of a product recommendation system using various collaborative filtering techniques. The primary focus is on building a system that can recommend products to users based on their preferences, using both item-based and model-based collaborative filtering approaches. The models have been fine-tuned using grid search cross-validation to optimize performance.
 
 ## Contents
-- ### Amazon_Recommendation_Systems2.ipynb: Jupyter Notebook containing full code and output
-- ### README.md: The document you are currently reading
+- **Amazon_Recommendation_Systems2.ipynb**: Jupyter Notebook containing full code and output
+- **README.md**: The document you are currently reading
 
 
 ## Overview
