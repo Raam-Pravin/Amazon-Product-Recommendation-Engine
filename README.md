@@ -20,12 +20,12 @@ The project implements two main types of recommendation algorithms:
 ## Requirements:
 To run this project, you must have the following libraries installed
 
-- scikit-learn: Used for machine learning tasks, including the `mean_squared_error` function to evaluate model performance.
-- Surprise: Library for building and evaluating collaborative filtering recommendation models.
-- Pandas: Used for data manipulation and creating dataframes.
-- NumPy: For numerical operations and handling arrays.
-- Matplotlib/Seaborn: Used for visualizing model performance and metrics.
-- collections.defaultdict: Simplifies handling missing keys in dictionaries during data processing and evaluation.
+- scikit-learn: Used for machine learning tasks, including the `mean_squared_error` function to evaluate model performance
+- Surprise: Library for building and evaluating collaborative filtering recommendation models
+- Pandas: Used for data manipulation and creating dataframes
+- NumPy: For numerical operations and handling arrays
+- Matplotlib/Seaborn: Used for visualizing model performance and metrics
+- collections.defaultdict: Simplifies handling missing keys in dictionaries during data processing and evaluation
 
 
 ## Data
