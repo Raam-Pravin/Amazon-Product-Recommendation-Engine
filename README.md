@@ -17,7 +17,7 @@ The project implements two main types of recommendation algorithms:
 - Hyperparameters like n_epochs (number of iterations), lr_all (learning rate), and reg_all (regularization term) were fine-tuned to improve model accuracy
 
 
-## Requirements:
+## Requirements
 To run this project, you must have the following libraries installed
 
 - scikit-learn: Used for machine learning tasks, including the `mean_squared_error` function to evaluate model performance
