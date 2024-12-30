@@ -42,4 +42,4 @@ Link to dataset used can be found here: https://drive.google.com/file/d/1XahZcR2
 ## Conclusion and Future Work
 Both item-based and model-based collaborative filtering algorithms were implemented and evaluated.
 The dataset's imbalance, with many ratings being 5, influenced the model's performance, often resulting in predicted ratings around 4.29, close to the mean rating.
-Future work can focus on improving model performance through techniques like bootstrapping or generating synthetic datasets to better balance the rating distribution.
+Future work can focus on improving model performance through techniques like bootstrapping to better balance the rating distribution.
